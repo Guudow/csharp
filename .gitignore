@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+csharp.sln
+csharp/bin/
+csharp/obj/
